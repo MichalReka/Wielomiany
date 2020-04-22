@@ -1,0 +1,7 @@
+C:\Users\micha\Downloads\Small-projects-master\polynomial zero\ConsoleApp1\bin\Debug\Polynomials.exe.config
+C:\Users\micha\Downloads\Small-projects-master\polynomial zero\ConsoleApp1\bin\Debug\Polynomials.exe
+C:\Users\micha\Downloads\Small-projects-master\polynomial zero\ConsoleApp1\bin\Debug\Polynomials.pdb
+C:\Users\micha\Downloads\Small-projects-master\polynomial zero\ConsoleApp1\obj\Debug\Polynomials.csprojAssemblyReference.cache
+C:\Users\micha\Downloads\Small-projects-master\polynomial zero\ConsoleApp1\obj\Debug\Polynomials.csproj.CoreCompileInputs.cache
+C:\Users\micha\Downloads\Small-projects-master\polynomial zero\ConsoleApp1\obj\Debug\Polynomials.exe
+C:\Users\micha\Downloads\Small-projects-master\polynomial zero\ConsoleApp1\obj\Debug\Polynomials.pdb
